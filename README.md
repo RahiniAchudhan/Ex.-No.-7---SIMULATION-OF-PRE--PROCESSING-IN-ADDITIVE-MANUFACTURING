@@ -45,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/RahiniAchudhan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742838/cbfaca34-4db0-40dc-91e5-944bff82717b)
+
+### Name: RAHINI.A
+### Register Number: 212223230165
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
